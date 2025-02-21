@@ -1,0 +1,14 @@
+# Python cache fayllari
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual muhit
+venv/
+env/
+
+# Maxfiy fayllar
+.env
+
+# Railway va Heroku log fayllari
+*.log
